@@ -164,40 +164,6 @@ Marine Tech         ███████░░░ 70%
   </tr>
 </table>
 
----
-
-## 📊 Professional Dev Activity & Focus / Profesyonel Performans ve Odak Alanları
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/kaanclyn/PromSSH/main/resources/profile_dev_metrics.svg" alt="Kaan's Dev Metrics" />
-  &nbsp;&nbsp;
-  <img width="49%" src="https://raw.githubusercontent.com/kaanclyn/PromSSH/main/resources/profile_focus_areas.svg" alt="Kaan's Focus Areas" />
-</p>
-
-## 🌊 Dynamic Contribution Ecosystem / Katkı Ekosistemi
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>👾 Commit Snake Game (Animated)</h4>
-      <img src="https://raw.githubusercontent.com/kaanclyn/kaanclyn/output/github-contribution-grid-snake.svg" alt="Commit Snake" width="100%" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>⚡ Activity Timeline (Neon)</h4>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaanclyn&theme=react-dark&bg_color=020617&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<p align="center">
-  <strong>📊 3D Isometric Contribution Skyline</strong><br />
-  <img src="https://raw.githubusercontent.com/kaanclyn/kaanclyn/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,100:020617" alt="Waving Footer" />
 </p>
