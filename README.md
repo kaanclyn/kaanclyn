@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Assassin_insignia.svg/200px-Assassin_insignia.svg.png" width="120" alt="Assassin's Creed Insignia" />
-</p>
-
 <h1 align="center">Merhaba, Ben Kaan Çağlayan! 👋</h1>
 
 <p align="center">
