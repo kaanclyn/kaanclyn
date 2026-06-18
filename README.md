@@ -1,4 +1,10 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=2500&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Kaan+Çağlayan!+👋;PromSoftware+Kurucusu+%26+Geliştirici;Full+Stack+Software+Developer" alt="Kaan Çağlayan" /></p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Batman_Yellow_Logo.svg" width="130" alt="Batman Logo" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=2500&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Kaan+Çağlayan!+👋;PromSoftware+Kurucusu+%26+Geliştirici;Full+Stack+Software+Developer" alt="Kaan Çağlayan" />
+</h1>
 
 <p align="center">
   <strong>Masaüstü, Web ve Mobil Platformlarda Güvenli ve Yüksek Performanslı Çözümler Geliştiriyorum.</strong>
@@ -150,32 +156,32 @@
       <table width="100%">
         <tr>
           <td><strong>TypeScript & React</strong></td>
-          <td><img src="https://progress-bar.dev/28/?width=130&color=0d9488" alt="TS" /></td>
+          <td><img src="https://geps.dev/progress/28?barColor=0d9488" alt="TS" /></td>
           <td align="right">28.5%</td>
         </tr>
         <tr>
           <td><strong>JavaScript & Node.js</strong></td>
-          <td><img src="https://progress-bar.dev/20/?width=130&color=0d9488" alt="JS" /></td>
+          <td><img src="https://geps.dev/progress/20?barColor=0d9488" alt="JS" /></td>
           <td align="right">20.3%</td>
         </tr>
         <tr>
           <td><strong>Flutter & Dart</strong></td>
-          <td><img src="https://progress-bar.dev/14/?width=130&color=0d9488" alt="Flutter" /></td>
+          <td><img src="https://geps.dev/progress/14?barColor=0d9488" alt="Flutter" /></td>
           <td align="right">14.1%</td>
         </tr>
         <tr>
           <td><strong>C# & .NET</strong></td>
-          <td><img src="https://progress-bar.dev/12/?width=130&color=0d9488" alt="C#" /></td>
+          <td><img src="https://geps.dev/progress/12?barColor=0d9488" alt="C#" /></td>
           <td align="right">12.4%</td>
         </tr>
         <tr>
           <td><strong>C++</strong></td>
-          <td><img src="https://progress-bar.dev/10/?width=130&color=0d9488" alt="C++" /></td>
+          <td><img src="https://geps.dev/progress/10?barColor=0d9488" alt="C++" /></td>
           <td align="right">10.2%</td>
         </tr>
         <tr>
           <td><strong>Diğer / Others</strong></td>
-          <td><img src="https://progress-bar.dev/15/?width=130&color=0d9488" alt="Others" /></td>
+          <td><img src="https://geps.dev/progress/15?barColor=0d9488" alt="Others" /></td>
           <td align="right">14.5%</td>
         </tr>
       </table>
