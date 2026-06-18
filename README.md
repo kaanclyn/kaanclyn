@@ -139,13 +139,49 @@
 
 ---
 
-### 📈 GitHub İstatistikleri / Stats
+### 📈 GitHub İstatistikleri & Teknolojiler / Stats & Tech Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaanclyn&show_icons=true&title_color=0d9488&icon_color=0d9488&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Kaan's Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanclyn&layout=compact&title_color=0d9488&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=kaanclyn&show_icons=true&title_color=0d9488&icon_color=0d9488&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Kaan's Stats" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td><strong>TypeScript & React</strong></td>
+          <td><img src="https://progress-bar.dev/28/?width=130&color=0d9488" alt="TS" /></td>
+          <td align="right">28.5%</td>
+        </tr>
+        <tr>
+          <td><strong>JavaScript & Node.js</strong></td>
+          <td><img src="https://progress-bar.dev/20/?width=130&color=0d9488" alt="JS" /></td>
+          <td align="right">20.3%</td>
+        </tr>
+        <tr>
+          <td><strong>Flutter & Dart</strong></td>
+          <td><img src="https://progress-bar.dev/14/?width=130&color=0d9488" alt="Flutter" /></td>
+          <td align="right">14.1%</td>
+        </tr>
+        <tr>
+          <td><strong>C# & .NET</strong></td>
+          <td><img src="https://progress-bar.dev/12/?width=130&color=0d9488" alt="C#" /></td>
+          <td align="right">12.4%</td>
+        </tr>
+        <tr>
+          <td><strong>C++</strong></td>
+          <td><img src="https://progress-bar.dev/10/?width=130&color=0d9488" alt="C++" /></td>
+          <td align="right">10.2%</td>
+        </tr>
+        <tr>
+          <td><strong>Diğer / Others</strong></td>
+          <td><img src="https://progress-bar.dev/15/?width=130&color=0d9488" alt="Others" /></td>
+          <td align="right">14.5%</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
