@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Batman_Yellow_Logo.svg" width="130" alt="Batman Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Assassin_insignia.svg/200px-Assassin_insignia.svg.png" width="120" alt="Assassin's Creed Insignia" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=2500&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Kaan+Çağlayan!+👋;PromSoftware+Kurucusu+%26+Geliştirici;Full+Stack+Software+Developer" alt="Kaan Çağlayan" />
-</h1>
+<h1 align="center">Merhaba, Ben Kaan Çağlayan! 👋</h1>
 
 <p align="center">
   <strong>Masaüstü, Web ve Mobil Platformlarda Güvenli ve Yüksek Performanslı Çözümler Geliştiriyorum.</strong>
